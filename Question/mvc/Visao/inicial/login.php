@@ -9,12 +9,12 @@
       </div>
 
     <div id="login-page" class="row">
-      <div class="col s4 offset-s4     card-panel">
+      <div class="col s4 offset-s4 card-panel">
         <form class="login-form">
           <div class="row">
             <div class="input-field col s12 center">
-              <img src="<?= URL_IMG . 'login-logo.png' ?>" alt="" class="circle responsive-img valign profile-image-login">
-              <p class="center login-form-text">Question</p>
+              <img src="<?= URL_IMG . 'logo_white.svg' ?>" alt="" class="circle responsive-img valign profile-image-login CorFundo">
+              <h4 class="center login-form-text">Login</h4>
             </div>
           </div>
           <div class="row margin">

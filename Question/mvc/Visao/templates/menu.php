@@ -1,5 +1,5 @@
 <nav class="white" role="navigation">
-  <div class="nav-wrapper container"><a id="logo-container" href="index" class="brand-logo">Question <img class="iconeLogo Cor" src="<?= URL_IMG . 'logo.png' ?>"></a>
+  <div class="nav-wrapper container"><a id="logo-container" href="index" class="brand-logo">Question <img class="iconeLogo Cor" src="<?= URL_IMG . 'logo.svg' ?>"></a>
     <ul class="right hide-on-med-and-down">
       <li><a href="contato" class="black-text"><b>Contato</b></a></li>
       <li><a href="login" class="black-text"><b>Login</b></a></li>
