@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="<?= URL_CSS . 'materialize.min.css' ?>"  media="screen,projection">
-    <link rel="icon" href="images/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="shortcut icon" href="<?= URL_IMG . 'favicon.ico' ?>" />
     <link rel="stylesheet" href="<?= URL_CSS . 'style.css' ?>"  media="screen,projection">
 </head>
 <body>

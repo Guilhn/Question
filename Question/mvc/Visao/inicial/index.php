@@ -1,15 +1,15 @@
 <?php $this-> menu() ?>
 
-  <div id="index-banner" class="parallax-container">
+  <div id="index-banner" class="parallax-container imgFull">
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center CorTexto text-lighten-2">Parallax Template</h1>
+        <h1 class="header center CorTexto text-lighten-2">Lorem ipsum</h1>
         <div class="row center">
-          <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+          <h5 class="header col s12 light">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h5>
         </div>
         <div class="row center">
-          <a href="http://materializecss.com/getting-started.html" id="download-button" class=" btn-large waves-effect waves-light CorFundo CorLink">Get Started</a>
+          <a href="#" id="download-button" class=" btn-large waves-effect waves-light CorFundo CorLink">Começar</a>
         </div>
         <br><br>
 
@@ -23,7 +23,7 @@
     <div class="section">
 
       <!--   Icon Section   -->
-      <div class="row">
+      <div class="row textHalf">
         <div class="col s12 m4">
           <div class="icon-block">
             <h2 class="center brown-text"><i class="mdi-image-flash-on"></i></h2>
@@ -35,7 +35,7 @@
 
         <div class="col s12 m4">
           <div class="icon-block">
-            <h2 class="center brown-text"><i class="mdi-social-group"></i></h2>
+            <h2 class="center brown-text"><i cla  ss="mdi-social-group"></i></h2>
             <h5 class="center">User Experience Focused</h5>
 
             <p class="light">By utilizing elements and principles of Material Design, we were able to create a framework that incorporates components and animations that provide more feedback to users. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
@@ -56,7 +56,7 @@
   </div>
 
 
-  <div class="parallax-container valign-wrapper">
+  <div class="parallax-container valign-wrapper imgFull">
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
@@ -70,7 +70,7 @@
   <div class="container">
     <div class="section">
 
-      <div class="row">
+      <div class="row textHalf">
         <div class="col s12 center">
           <h3><i class="mdi-content-send brown-text"></i></h3>
           <h4>Contact Us</h4>
@@ -82,7 +82,7 @@
   </div>
 
 
-  <div class="parallax-container valign-wrapper">
+  <div class="parallax-container valign-wrapper imgFull">
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
