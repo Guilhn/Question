@@ -13,6 +13,14 @@ class AppControlador extends Controlador
         $this->visao('inicial/contato.php');
     }
 
+    public function login()
+    {
+        $this->visao('inicial/login.php');
+    }
+
+
+    //Templates
+
     public function menu()
     {
         $this->visao('templates/menu.php');

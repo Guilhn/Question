@@ -16,15 +16,39 @@ body {
   nav ul a,
   nav .brand-logo {
     color: #444;
+
   }
+
+  .CorFundo{
+    background: #00bfa5;
+  }
+
+  .CorTexto{
+      color: #00bfa5;
+  }
+
+
+
+.brand-logo{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 
   p {
     line-height: 2rem;
   }
 
+  .iconeLogo{
+    width: 40px;
+  }
+
+  .card-panel{
+    margin-top: 40px;
+  }
 
   .padbottom{
-    padding-bottom:50px; 
+    padding-bottom:50px;
   }
 
   .sidenav-trigger {

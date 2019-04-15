@@ -9,5 +9,8 @@ $rotas = [
     ],
     '/index' => [
         'GET' => '\Controlador\AppControlador#index',
+    ],
+    '/login' => [
+        'GET' => '\Controlador\AppControlador#login',
     ]
 ];
