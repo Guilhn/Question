@@ -35,7 +35,7 @@
             <div class="center input-field col s12 m12 l12  login-text">
               <label>
                 <input type="checkbox"/>
-                <span>Lembre de mim</span>
+                <span>Lembrar!</span>
               </label>
             </div>
           </div>

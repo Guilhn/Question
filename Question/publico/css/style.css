@@ -19,12 +19,26 @@ body {
 
   }
 
+/* Cores */
+
   .CorFundo{
     background: #00bfa5;
   }
 
   .CorTexto{
-      color: #00bfa5;
+    color: #00bfa5;
+  }
+
+  .sidenav-trigger {
+    color: #26a69a;
+  }
+
+
+  .parallax-container {
+    min-height: 500px;
+    line-height: 0;
+    height: auto;
+    color: rgba(255,255,255,.9);
   }
 
 .brand-logo{
@@ -49,9 +63,6 @@ body {
     padding-bottom:50px;
   }
 
-  .sidenav-trigger {
-    color: #26a69a;
-  }
 
   .parallax-container {
     min-height: 500px;
@@ -62,6 +73,9 @@ body {
     .parallax-container .section {
       width: 100%;
     }
+
+
+/* Media query  */
 
   @media only screen and (max-width : 992px) {
     .parallax-container .section {
@@ -90,6 +104,8 @@ body {
     margin: 0;
   }
 
+
+/* Paralax com imagem ou area de texto full ou 50% da tela */
   .imgFull{
     height: 100vh;
     padding-top: 200px;
@@ -98,5 +114,4 @@ body {
 
   .textHalf{
     height: 50vh;
-    padding-top: 100px;
   }
